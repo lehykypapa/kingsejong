@@ -1,0 +1,8 @@
+{
+  "name": "Remix 세종대왕님과 카톡해요",
+  "description": "초등학생이 한글 자모 인터페이스와 카카오톡 스타일 채팅방에서 세종대왕님과 역사, 숨은 이야기, 오늘날의 이야기를 나누는 대화형 학습 애플리케이션",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
